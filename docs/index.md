@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-<a href="www.baidu.com">test</a>
+ [testbaidu](https://www.baidu.com) 
 - Bulleted
 - List
 

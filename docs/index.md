@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
- [testbaidu](https://www.baidu.com) 
+
 - Bulleted
 - List
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+For more details see [baidutest](https://baidu.com).
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

@@ -1,17 +1,11 @@
 
-/*
-*项目名: 个人简历
-*创建者: 鲁波
-*创建时间:2022.3.28 20:40:41
-*联系方式:18371900524(微信同号)
-*描述: 酷炫个人简历
-*/
+
 
 let textArr = [
     {
         name: 'h2',
         class: 'inten',
-        text: '求职意向：JAVA开发工程师'
+        text: '求职意向：前端开发工程师'
     }, {
         name: 'h4',
         class: 'text-title',
@@ -23,69 +17,57 @@ let textArr = [
             name: 'div',
             children: [{
                 name: 'div',
-                text: '姓名：鲁波'
+                text: '姓名：Edit'
             },{
                 name: 'div',
-                text: '年龄：29'
+                text: '年龄：23'
             }]
         }, {
             name: 'div',
             children: [{
                 name: 'div',
-                text: '毕业院校：荆州理工职业学院'
+                text: '毕业院校：中山大学南方学院'
             },{
                 name: 'div',
-                text: '联系电话：18371900524'
+                text: '联系电话：15622749328'
             }]
-        }, {
-            name: 'div',
-            children: [{
-                name: 'div',
-                text: '政治面貌：党员'
-            },{
-                name: 'div',
-                text: '收入情况：8000~12000'
-            }]
-    }]
+        }]
     }, {
         name: 'h4',
         class: 'text-title',
-        text: '工作经历'
+        text: '教育背景'
     }, {
         name: 'div',
         class: 'school',
         children: [{
             name: 'span',
             class: 'mr',
-            text: '2019.12 - 至今：武汉儒松科技有限公司(十堰分部) java开发工程师'
+            text: '学校：中山大学南方学院'
         }, {
             name: 'span',
-            text: '2019.5 - 2019.12：武汉禾青优化科技有限公司     java开发工程师'
+            text: '专业：计算机科学与技术'
         }, {
             name: 'div',
-            text: '2018.3 - 2019.5：武汉国信映盛互动技术有限公司  java开发工程师',
-        }, {
-            name: 'div',
-            text: '2016.6 - 2018.3：武汉百汇艺声科技有限公司      java开发工程师',
+            text: '主修课程：HTML、CSS、JavaScript、Vue、JavaEE、MySQL',
         }]
     }, {
         name: 'h4',
         class: 'text-title',
-        text: '技能说明'
+        text: '专业技能'
     }, {
         name: 'ul',
         class: 'ul-list',
         children: [{
             name: 'li',
-            text:'关于做饭',
+            text:'熟练掌握',
             children: [{
                 name: 'span',
                 class: 'tag',
-                text: '煎炒烹炸闷溜熬炖'
+                text: 'H5、CSS3、ES6'
             }]
         }, {
             name: 'li',
-            text:''
+            text:'能熟练运用不同主流UI框架ElementUI及多个移动端UI框架'
         }, {
             name: 'li',
             text:'掌握前端主流',
@@ -323,7 +305,7 @@ let textArr = [
 ]
 let style = `
     /*
-    * 面试官你好，我是鲁波，湖北郧县人
+    * 各位小姐姐好，我是提莫队长，湖北十堰人
     * 为您精心准备一份不一样的简历来介绍自己
     * 首先准备一些样式
     */

@@ -122,7 +122,7 @@ let textArr = [
         class: 'school',
         children: [{
             name: 'div',
-            text: '&nbsp;&nbsp;内心也渴望一份美好的情感，但不强求也不凑合，尊重她人和自己的情感，期待理想中的你能够早日出现。正如顾城所说：“我正站成一个世界，把你等待♥。”',
+            text: '&nbsp;&nbsp;内心也渴望一份美好的情感，但不强求也不凑合，尊重她人和自己的情感，期待理想中的你能够早日出现。正如顾城所说：“我正站成一个世界，把你等待🙂。”',
         }]
     }
 ]
@@ -167,7 +167,7 @@ let balloon = `
         <img src="images/balloon.png" id="bg-balloon-small">
         <img src="images/balloon.png" id="bg-balloon-large">
         <img src="images/logo.png" id="bg-balloon-logo" style="height:100px;">
-		<img src="images/weixin.jpg" style="top:13%;right:23%;height:120px;width:120px;">
+		<img src="images/weixin.jpg" style="margin-top:10%;margin-left:58%;height:140px;width:140px;">
     </div>
     <div class="connect" style="width: 100%; display: flex;"></div>`
 let line = `

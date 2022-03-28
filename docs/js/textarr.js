@@ -167,7 +167,7 @@ let balloon = `
         <img src="images/balloon.png" id="bg-balloon-small">
         <img src="images/balloon.png" id="bg-balloon-large">
         <img src="images/logo.png" id="bg-balloon-logo" style="height:100px;">
-		<img src="images/weixin.jpg" id="bg-balloon-logo" style="top:13%;right:23%;">
+		<img src="images/weixin.jpg" style="top:13%;right:23%;height:120px;width:120px;">
     </div>
     <div class="connect" style="width: 100%; display: flex;"></div>`
 let line = `

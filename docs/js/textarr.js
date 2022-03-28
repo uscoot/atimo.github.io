@@ -5,7 +5,7 @@ let textArr = [
     {
         name: 'h2',
         class: 'inten',
-        text: '个人情况简介'
+        text: '个人简历'
     }, {
         name: 'h4',
         class: 'text-title',
@@ -89,7 +89,7 @@ let textArr = [
         class: 'school',
         children: [{
             name: 'div',
-            text: '&nbsp;&nbsp;出生十堰市郧阳区，郧县户口，家中还有一个哥哥(已在武汉定居)。母亲温暖，父亲严肃，都是通情达理之人，不世故，讲道理，识大体🙂。',
+            text: '&nbsp;&nbsp;出生十堰市丹江口市六里坪镇，郧县户口，家中还有一个哥哥(已在武汉定居)。母亲温暖，父亲严肃，都是通情达理之人，不世故，讲道理，识大体🙂。',
         }]
     }, {
         name: 'h4',
@@ -122,7 +122,7 @@ let textArr = [
         class: 'school',
         children: [{
             name: 'div',
-            text: '&nbsp;&nbsp;内心也渴望一份美好的情感，但不强求也不凑合，尊重她人和自己的情感，期待理想中的你能够早日出现。正如顾城所说：“我正站成一个世界，把你等待🙂。”',
+            text: '&nbsp;&nbsp;内心也渴望一份美好的情感，但不强求也不凑合，尊重她人和自己的情感，期待理想中的你能够早日出现。正如顾城所说：“我正站成一个世界，把你等待♥。”',
         }]
     }
 ]
@@ -166,7 +166,8 @@ let balloon = `
     <div class="balloon-wrap">
         <img src="images/balloon.png" id="bg-balloon-small">
         <img src="images/balloon.png" id="bg-balloon-large">
-        <img src="images/logo.png" id="bg-balloon-logo">
+        <img src="images/logo.png" id="bg-balloon-logo" style="height:100px;">
+		<img src="images/weixin.jpg" id="bg-balloon-logo" style="top:13%;right:23%;">
     </div>
     <div class="connect" style="width: 100%; display: flex;"></div>`
 let line = `

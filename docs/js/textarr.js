@@ -36,6 +36,9 @@ let textArr = [
             },{
                 name: 'div',
                 text: '政治面貌：党员'
+            },{
+                name: 'div',
+                text: '掌上相亲网ID：678475'
             }]
         }]
     }, {

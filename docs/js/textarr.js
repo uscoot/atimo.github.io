@@ -20,7 +20,7 @@ let textArr = [
                 text: '姓名：鲁波'
             },{
                 name: 'div',
-                text: '年龄：29'
+                text: '年龄：30'
             },{
                 name: 'div',
                 text: '星座：处女座'
@@ -29,17 +29,19 @@ let textArr = [
             name: 'div',
             children: [{
                 name: 'div',
-                text: '身高/体重：173/132'
+                text: '身高/体重：173/135'
             },{
                 name: 'div',
                 text: '联系电话：18371900524'
             },{
                 name: 'div',
                 text: '政治面貌：党员'
-            },{
+            }
+	   /*    ,{
                 name: 'div',
                 text: '掌上相亲网ID：678475'
-            }]
+            }*/
+		      ]
         }]
     }, {
         name: 'h4',
